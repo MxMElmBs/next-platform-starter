@@ -46,7 +46,7 @@ export default async function Page() {
                         return uploadDisabled ? uploadDisabledText : null;
                     }}
                 />
-                <h1>Blobs x Blobs</h1>
+                <h1>Blobs xxx Blobs</h1>
             </section>
             {!!getNetlifyContext() && (
                 <div className="flex flex-col gap-8">
